@@ -17,6 +17,7 @@ namespace Aufgabe3
             int toSystem = int.Parse(Console.ReadLine());
             Console.WriteLine("Die Lösung ist:");
             Console.WriteLine(ConvertNumberFromSystemToSystem(number, fromSystem, toSystem));
+            
         }
 
         static int DecimalToHexal(int dec)
