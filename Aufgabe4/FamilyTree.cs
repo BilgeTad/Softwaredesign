@@ -27,8 +27,8 @@ namespace Aufgabe4
 
 
 
-            if (person.LastName != "Battenberg")
-                return person;
+            /* if (person.LastName == "Battenberg")
+                 return person;*/
             ret = Find(person.Mom);
             if (ret != null)
 
