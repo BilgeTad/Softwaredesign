@@ -25,8 +25,6 @@ namespace Aufgabe4
                 return person;
 
 
-
-
             /* if (person.LastName == "Battenberg")
                  return person;*/
             ret = Find(person.Mom);

@@ -1,0 +1,11 @@
+C:\Users\bilge\Documents\GitHub\Softwaredesign\Aufgabe05\bin\Debug\netcoreapp2.1\Aufgabe05.deps.json
+C:\Users\bilge\Documents\GitHub\Softwaredesign\Aufgabe05\bin\Debug\netcoreapp2.1\Aufgabe05.runtimeconfig.json
+C:\Users\bilge\Documents\GitHub\Softwaredesign\Aufgabe05\bin\Debug\netcoreapp2.1\Aufgabe05.runtimeconfig.dev.json
+C:\Users\bilge\Documents\GitHub\Softwaredesign\Aufgabe05\bin\Debug\netcoreapp2.1\Aufgabe05.dll
+C:\Users\bilge\Documents\GitHub\Softwaredesign\Aufgabe05\bin\Debug\netcoreapp2.1\Aufgabe05.pdb
+C:\Users\bilge\Documents\GitHub\Softwaredesign\Aufgabe05\obj\Debug\netcoreapp2.1\Aufgabe05.csprojAssemblyReference.cache
+C:\Users\bilge\Documents\GitHub\Softwaredesign\Aufgabe05\obj\Debug\netcoreapp2.1\Aufgabe05.csproj.CoreCompileInputs.cache
+C:\Users\bilge\Documents\GitHub\Softwaredesign\Aufgabe05\obj\Debug\netcoreapp2.1\Aufgabe05.AssemblyInfoInputs.cache
+C:\Users\bilge\Documents\GitHub\Softwaredesign\Aufgabe05\obj\Debug\netcoreapp2.1\Aufgabe05.AssemblyInfo.cs
+C:\Users\bilge\Documents\GitHub\Softwaredesign\Aufgabe05\obj\Debug\netcoreapp2.1\Aufgabe05.dll
+C:\Users\bilge\Documents\GitHub\Softwaredesign\Aufgabe05\obj\Debug\netcoreapp2.1\Aufgabe05.pdb

@@ -1,0 +1,14 @@
+{
+  "ProjectFilePath": "c:\\Users\\bilge\\Documents\\GitHub\\Softwaredesign\\Aufgabe05\\Aufgabe05.csproj",
+  "TargetFramework": "netcoreapp2.1",
+  "TagHelpers": [],
+  "Configuration": {
+    "ConfigurationName": "UnsupportedRazor",
+    "LanguageVersion": "1.0",
+    "Extensions": [
+      {
+        "ExtensionName": "UnsupportedRazorExtension"
+      }
+    ]
+  }
+}
