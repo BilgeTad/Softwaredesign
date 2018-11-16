@@ -8,7 +8,7 @@ namespace Aufgabe05
         {
             Console.WriteLine("Enter Text: ");
 
-            var enteredText = Console.ReadLine();
+            string enteredText = Console.ReadLine();
             string turnedText = TurnAll(enteredText);
             string outputTurnedWord = TurnWord(enteredText);
             string outputText = TurnWordLetter(enteredText);
@@ -57,7 +57,6 @@ namespace Aufgabe05
                 {
                     wordIsTurned += wordToTurn[k];
                 }
-                //wordToTurn="";
                 outputText[i] = wordIsTurned;
 
             }
