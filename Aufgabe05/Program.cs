@@ -19,7 +19,7 @@ namespace Aufgabe05
         }
         public static string TurnAll(string enteredText)
         {
-            string turnedText = " ";
+            string turnedText = "";
             for (int i = enteredText.Length - 1; i >= 0; i--)
             {
                 turnedText += enteredText[i];
