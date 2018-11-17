@@ -7,8 +7,8 @@ namespace Aufgabe05
         static void Main(string[] args)
         {
             Console.WriteLine("Enter Text: ");
-
             string enteredText = Console.ReadLine();
+            
             string turnedText = TurnAll(enteredText);
             string outputTurnedWord = TurnWord(enteredText);
             string outputText = TurnWordLetter(enteredText);
@@ -16,6 +16,8 @@ namespace Aufgabe05
             Console.WriteLine(turnedText);
             Console.WriteLine(outputTurnedWord);
             Console.WriteLine(outputText);
+
+
         }
         public static string TurnAll(string enteredText)
         {

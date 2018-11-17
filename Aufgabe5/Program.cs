@@ -14,7 +14,7 @@ namespace Aufgabe5
             Console.WriteLine(letters);
             Console.WriteLine(words);
             Console.WriteLine(sentence);
-            
+
         }
 
         public static string reverseSentence(string text)
@@ -52,9 +52,8 @@ namespace Aufgabe5
 
             }
             text = String.Join(" ", finalText);
-            return text;
-
+            return text; 
+   
         }
-
     }
 }
