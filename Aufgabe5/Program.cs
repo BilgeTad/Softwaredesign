@@ -34,7 +34,10 @@ namespace Aufgabe5
         }
         public static string reverseLetters(string text)
         {
-            string[] wordText = text.Split(' ');
+            string reversedWord = reverseWords(text);
+            string reversedSentence = reverseLetters(reversedWord);
+            return reversedSentence;
+            /* string[] wordText = text.Split(' ');
             string turnWord = "";
             string[] finalText = new string[wordText.Length];
 
@@ -52,7 +55,8 @@ namespace Aufgabe5
 
             }
             text = String.Join(" ", finalText);
-            return text; 
+            return text; */
+
    
         }
     }

@@ -8,7 +8,7 @@ namespace Aufgabe05
         {
             Console.WriteLine("Enter Text: ");
             string enteredText = Console.ReadLine();
-            
+
             string turnedText = TurnAll(enteredText);
             string outputTurnedWord = TurnWord(enteredText);
             string outputText = TurnWordLetter(enteredText);
