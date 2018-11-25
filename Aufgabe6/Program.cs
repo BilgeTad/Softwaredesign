@@ -11,9 +11,9 @@ namespace Aufgabe6
         public static List<Quizelement> quizelementsList = new List<Quizelement>();
 
         static void Main(string[] args)
-        {
-            CreateNewQuiz();
+        {   
             QuizMenu();
+            CreateNewQuiz();   
         }
 
         public static void QuizMenu()
