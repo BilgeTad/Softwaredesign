@@ -2,6 +2,7 @@ using System;
 
 namespace L07_DesignPatterns
 {
+    public delegate void ReportProgressMethod(int progress);
     class Calculator{
 
         public event ReportProgressMethod ProgressMethod;
