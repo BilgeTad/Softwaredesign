@@ -9,7 +9,6 @@ namespace L07_DesignPatterns
         public Calculator()
         {
             ProgressMethod += ProgressInPercent;
-            ProgressMethod += ProgressInfo;
         }
 
         public void CalculateSomething()
@@ -26,18 +25,6 @@ namespace L07_DesignPatterns
         public void ProgressInPercent(int progress)
         {
             Console.WriteLine(progress + " %");
-        }
-
-        public void ProgressInfo(int progress)
-        {
-            if (progress == 100)
-            {
-                Console.WriteLine("Finished");
-            }
-            else
-            {
-                Console.WriteLine("Loading");
-            }
         }
     }
 }
