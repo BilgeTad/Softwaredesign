@@ -1,8 +1,9 @@
 using System;
 using System.Collections.Generic;
 
-namespace Aufgabe10
+namespace Aufgabe11
 {
+    
     public class Tree <T>
     {
         public T Data;
@@ -35,6 +36,22 @@ namespace Aufgabe10
             {
                 child.PrintTree(AddTree + "*");
             }
+        }
+
+        
+        public void ForEach(Action<string> func)
+        {         
+            for (int i = 0; i < list.Count; i++)
+            {
+                func(list[i].ToString());
+                list[i].ForEach(Program.Func);
+            }
+
+        }
+        public override string ToString()
+
+        {
+            return Data.ToString();
         }
 
     }
